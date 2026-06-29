@@ -1,4 +1,4 @@
-# 
+# Lightweight AI Stock Price Predictor themes. Featuring sentiment-analysis and predictive-analytics — optimized for maximum performance.
 
 
 
